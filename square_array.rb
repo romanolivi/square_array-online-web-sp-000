@@ -11,8 +11,7 @@ end
 
 
 
-
-puts square_array([1,2,3])
+inspect.square_array([1,2,3])
 
 
 
